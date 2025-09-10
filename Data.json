@@ -1,0 +1,31 @@
+{
+  "screen": {
+    "type": "splash",
+    "targetDevice": "iPhone 16 Pro",
+    "dimensions": {
+      "width": 1290,
+      "height": 2796,
+      "units": "pixels"
+    },
+    "elements": [
+      {
+        "type": "background",
+        "properties": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "image",
+        "asset": "1000098454.png",
+        "description": "The University of Jordan Logo",
+        "properties": {
+          "alignment": {
+            "horizontal": "center",
+            "vertical": "center"
+          },
+          "scaling": "aspectFit"
+        }
+      }
+    ]
+  }
+}
